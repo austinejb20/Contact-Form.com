@@ -1,0 +1,14 @@
+# Contact Form
+- A modern contact form that allows users to easily get in touch by sending messages, questions, or feedback.
+- ## Features
+- Responsive design
+- Modern dark UI with glow effects
+- Input validation support
+- Clean and simple layout
+- Contact information section
+- Send message button with icon styling
+- ## Technology Used
+- HTML
+- CSS
+- ## Author
+- Austine  
